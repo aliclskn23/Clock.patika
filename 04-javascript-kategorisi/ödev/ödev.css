@@ -1,0 +1,26 @@
+.text{
+    text-align: center;
+    margin-top: 150px;
+    background-color: rgb(183, 167, 167);
+
+}
+.resım{
+    margin-bottom: 50px;
+    height: 60px;
+
+}.text1{
+    margin-top: 10px;
+    font-size: 35px;
+    color: rgb(161, 79, 8);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}.text2{
+    font-size: 35px;
+    color: rgb(161, 79, 8);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} .clock{
+    font-size: 35px;
+    color: rgb(52, 49, 49);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
